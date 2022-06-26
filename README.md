@@ -2,8 +2,6 @@
 
 ## What i used in this project:
 
-In the project directory, you can run:
-
 ### `ReactJS`
 ### `React Toolkit`
 ### `React Redux`
