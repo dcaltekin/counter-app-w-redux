@@ -10,4 +10,5 @@
 ### `Responsive Design`
 ### `Tailwind CSS`
 
-# Demo: https://counterapp-redux.netlify.app/
+## Demo:
+https://counterapp-redux.netlify.app/
